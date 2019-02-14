@@ -1,0 +1,12 @@
+LM_tweets/*
+LM_tweets_0/*
+LM_tweets_1/*
+data/*
+__pycache__
+tweets_class/*
+tmp/*
+language_model_wiki/LM/*
+wikiextractor
+._.DS_Store
+.DS_Store
+
