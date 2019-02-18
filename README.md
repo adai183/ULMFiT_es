@@ -10,3 +10,16 @@ This approach would have achieved SOTA for the [ 1st Classification of Spanish E
 86% accuracy is achieved only using the provided competition data (see [notebook](https://github.com/adai183/ULMFiT_es/blob/master/election_tweets.ipynb)). The fine-tuning and training of the classifier should not take longer than a couple of minutes on a machine suitable for deep-learning with a very basic GPU.
 
 After using additional unlabeled data for language model fine-tuning  the model scores 91% accuracy (see [notebook](https://github.com/adai183/ULMFiT_es/blob/master/experiments/add_campaign_2016_data.ipynb)).
+
+
+
+## Setup
+
+```
+git clone https://github.com/adai183/ULMFiT_es.git
+cd ULMFiT_es
+conda env create -f environment.yml
+source activate fastai_v07
+jupyter-notebook
+
+```
