@@ -19,7 +19,7 @@ After using additional unlabeled data for language model fine-tuning  the model 
 git clone https://github.com/adai183/ULMFiT_es.git
 cd ULMFiT_es
 conda env create -f environment.yml
-source activate fastai_v07
+conda activate fastai_v07
 jupyter-notebook
 
 ```
