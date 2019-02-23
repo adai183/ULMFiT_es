@@ -1,6 +1,6 @@
 LM_tweets/*
-LM_tweets_0/*
-LM_tweets_1/*
+LM_tweets_best/*
+LM_fine_tune/*
 data/*
 __pycache__
 tweets_class/*
