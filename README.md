@@ -3,7 +3,7 @@ This repository contains implementations of [ULMFit](https://arxiv.org/abs/1801.
 
 Francisco Ingham [project](https://github.com/fpingham/SpanishULMFit)  for *Classification of Spanish Tweets as of 2017 in the GeneralTASS Dataset* was used as a starting point for hyperparameter tuning.
 
-A F1(macro) score of 0.7026 is achieved(see [notebook](https://github.com/adai183/ULMFiT_es/blob/master/election_tweets.ipynb)). The fine-tuning and training of the classifier should not take longer than a couple of minutes on a machine suitable for deep-learning with a very basic GPU.
+A F1(macro) score of 0.7026 is achieved(see [notebook](https://github.com/adai183/ULMFiT_es/blob/master/Evaluation%20and%20Interpretation.ipynb)). The fine-tuning and training of the classifier should not take longer than a couple of minutes on a machine suitable for deep-learning with a very basic GPU.
 
 
 
